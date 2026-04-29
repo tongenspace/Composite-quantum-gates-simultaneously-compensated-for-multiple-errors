@@ -1,4 +1,4 @@
-Composite Quantum Gates Simultaneously Compensated for Multiple Errors
+# Composite Quantum Gates Simultaneously Compensated for Multiple Errors
 This repository contains the supplementary materials, numerical data, and source code for the article "Composite quantum gates simultaneously compensated for multiple errors." You can use these tools to reproduce the results and verify the sequences presented in the paper.
 
 📂 Repository Structure
